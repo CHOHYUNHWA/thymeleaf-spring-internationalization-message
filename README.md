@@ -1,0 +1,1 @@
+# thymeleaf-spring-internationalization-message
